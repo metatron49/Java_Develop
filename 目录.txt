@@ -1,0 +1,49 @@
+1、java语言：
+	1、java 基础
+		1、基础编程
+		2、面向对象
+		3、高级编程
+			1、多线程
+			2、集合
+			3、IO流
+			4、反射
+			5、泛型
+			6、网络编程
+	2、jvm原理
+	3、设计模式
+	4、数据结构与算法
+
+2、javaEE框架:
+	1、Spring
+	2、Spring MVC
+	3、Spring Boot
+	4、Spring Cloud
+	5、Mybatis
+		1、Mybatis
+		2、通用Mapper
+		3、MybatisPlus
+
+3、关系型数据库
+	1、Mysql
+	2、Mycat
+	3、ShardingSphere
+	4、JDBC
+
+4、缓存
+	1、Redis
+
+5、消息
+	1、Kafka
+
+6、搜索
+	1、Elasticsearch
+
+7、NoSql
+	1、MondoDB
+
+8、开发构建集成部署工具
+	1、IDEA
+	2、Maven
+	3、Git
+	4、Jenkins
+	5、Docker

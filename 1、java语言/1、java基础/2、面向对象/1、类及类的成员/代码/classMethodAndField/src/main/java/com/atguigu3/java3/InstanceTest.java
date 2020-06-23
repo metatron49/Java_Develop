@@ -17,4 +17,5 @@ package com.atguigu3.java3;
  */
 public class InstanceTest {
 
+
 }

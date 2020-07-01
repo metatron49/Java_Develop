@@ -30,7 +30,7 @@ public class InnerClassTest {
 		Person.Dog dog = new Person.Dog();
 		dog.show();
 		//创建Bird实例(非静态的成员内部类):
-//		Person.Bird bird = new Person.Bird();//错误的
+        //Person.Bird bird = new Person.Bird();//错误的
 		Person p = new Person();
 		Person.Bird bird = p.new Bird();
 		bird.sing();
@@ -64,6 +64,7 @@ class Person{
 		}
 		
 	}
+
 	//非静态成员内部类
 	class Bird{
 		String name = "杜鹃";

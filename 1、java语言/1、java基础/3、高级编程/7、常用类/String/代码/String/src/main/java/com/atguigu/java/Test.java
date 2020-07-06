@@ -9,6 +9,13 @@ public class Test {
     private static int num = 1;
 
     public static void main(String[] args) {
+        Test test = new Test();
+        test.test();
+        int num = 1;
+
         System.out.println(num);
     }
+
+    void test(){}
+
 }

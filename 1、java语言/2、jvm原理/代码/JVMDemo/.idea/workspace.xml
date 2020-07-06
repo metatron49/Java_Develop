@@ -388,7 +388,7 @@
     <option name="totallyTimeSpent" value="2488000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="87" y="84" width="1573" height="957" extended-state="0" />
+    <frame x="87" y="84" width="1573" height="957" extended-state="1" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -399,7 +399,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.50436956" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.50436956" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />

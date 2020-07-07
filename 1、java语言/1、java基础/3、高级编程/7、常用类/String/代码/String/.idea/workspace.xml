@@ -51,8 +51,8 @@
       <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/java/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="288">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -101,9 +101,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="121" />
-    <option name="y" value="71" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="307" />
+    <option name="y" value="76" />
     <option name="width" value="1573" />
     <option name="height" value="999" />
   </component>
@@ -399,12 +399,12 @@
       <workItem from="1593745716891" duration="71000" />
       <workItem from="1593745806945" duration="1899000" />
       <workItem from="1594001089120" duration="61000" />
-      <workItem from="1594001171800" duration="5813000" />
+      <workItem from="1594001171800" duration="8103000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18056000" />
+    <option name="totallyTimeSpent" value="20346000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -416,7 +416,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1874" height="1096" extended-state="7" />
+    <frame x="307" y="76" width="1573" height="999" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -430,16 +431,16 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24983476" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.29468086" />
+      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.32858837" />
       <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.25832376" />
-      <window_info active="true" anchor="right" id="jclasslib" visible="true" weight="0.46306506" />
+      <window_info anchor="right" id="jclasslib" weight="0.55518836" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32858837" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22491731" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26966292" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -835,8 +836,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/java/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="288">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>

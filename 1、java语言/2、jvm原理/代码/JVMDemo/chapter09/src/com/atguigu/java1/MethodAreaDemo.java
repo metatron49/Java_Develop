@@ -5,7 +5,7 @@ package com.atguigu.java1;
  * @create 2020  14:28
  */
 public class MethodAreaDemo {
-    public static void main(String[] args) {
+    public   void main(String[] args) {
         int x = 500;
         int y = 100;
         int a = x / y;

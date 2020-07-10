@@ -10,9 +10,10 @@ public class ClassInitTest {
    static{
        num = 2;
        number = 20;
-       System.out.println(num);
-       //System.out.println(number);//报错：非法的前向引用。
    }
+       //System.out.println(num);
+       //System.out.println(number);//报错：非法的前向引用。
+
 
    private static int number = 10;  //linking之prepare: number = 0 --> initial: 20 --> 10
 

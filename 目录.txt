@@ -15,7 +15,7 @@
 			5、泛型
 			6、网络编程
 			7、常用类
-	2、jvm原理
+	2、jvm原理（36）
 		1、JVM和java体系结构
 		2、类加载子系统
 		3、运行时数据区
@@ -24,33 +24,37 @@
 			3、虚拟机栈
 			4、本地方法栈
 			5、堆
+			6、方法区
 	3、设计模式
 	4、数据结构与算法
 
 2、javaEE框架
-	1、Spring
-	2、Spring MVC
-	3、Spring Boot
-	4、Spring Cloud
-	5、Mybatis
-		1、Mybatis
-		2、通用Mapper
-		3、MybatisPlus
+	1、Spring （22）
+	   1、Spring 4
+	   2、Spring 注解驱动
+	2、Spring MVC  （9）
+	3、Spring Boot （24）
+	4、Spring Cloud （38）
+	5、Mybatis 
+		1、Mybatis （13）
+		2、通用Mapper （5）
+		3、MybatisPlus （8）
 
 3、关系型数据库
-	1、Mysql
-	2、Mycat
-	3、ShardingSphere
-	4、JDBC
+	1、Mysql （38）
+	2、Mycat （5）
+	3、ShardingSphere （6）
+	4、JDBC （13）
 
 4、缓存
-	1、Redis
+	1、Redis （20）
 
 5、消息
-	1、Kafka
+	1、Kafka （10）
 
 6、搜索
-	1、Elasticsearch
+	1、Elasticsearch （42）
+-----------------------------------275
 
 7、NoSql
 	1、MondoDB
